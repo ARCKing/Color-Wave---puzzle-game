@@ -9,6 +9,7 @@ TEl: +1 514889235
 
 ![image](https://github.com/ARCKing/Color-Wave---puzzle-game/blob/master/icon-60%402x.png)
 
+Play "Color Wave" to focus, relax or just to have some minutes of fun.
 
 iOS App Technical Support
 
