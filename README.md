@@ -15,7 +15,9 @@ TEl: +1 514889235
 Play "Color Wave" to focus, relax or just to have some minutes of fun.
 
 1.3 arrows are direction keys to control the movement in the first 3 directions
+
 2. Control the green ball to reach the red ball, get 1 point
+
 3. Move quickly on the conveyor belt, never hit the obstacle
 
 
