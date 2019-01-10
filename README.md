@@ -10,7 +10,7 @@ TEl: +1 514889235
 
 ![image](https://github.com/ARCKing/Color-Wave---puzzle-game/blob/master/icon-60%402x.png)
 
-# 2.【How to Play Mcute】
+# 2.【How to Play Color-Wave】
 
 Play "Color Wave" to focus, relax or just to have some minutes of fun.
 
